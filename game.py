@@ -25,7 +25,7 @@ score_board = {
 }
 print('Welcome to Multiplayer Rock Paper Scissors game!')
 print('This game created by www.mehrab.xyz for teaching how to create multiplayer games with socket.io')
-print('you can read full tutorial post in reddit: https://www.reddit.com/r/learnpython/comments/idf6ns/create_multiplayer_rock_paper_scissors_in_python/\n')
+print('you can read full tutorial post in reddit: https://www.reddit.com/r/Python/comments/idfdmu/create_multiplayer_rock_paper_scissors_in_python/ \n')
 
 def find_choice_advantage(choice,choices = choices):
     # Check if our choise - 1 exist in our choices dictionary, it means current choice has advantage on the previews choice
